@@ -1,6 +1,6 @@
 # selene
 
-a schoolism video downloader client à la `youtube-dl`
+a sch video downloader client à la `youtube-dl`
 
 ## disclaimer
 
